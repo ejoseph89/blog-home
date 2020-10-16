@@ -10,5 +10,11 @@
 
 
 ### Comments
+#### Image optmization
+All images are under 100kb in size. Medium and small images are under 50kb.  
+Large images are displayed in full saturation for screens of size 1250px and above.  
+Medium images are displayed in 50% saturation for screens of width 750px-1250px.  
+Small images are displayed in 'black and white' for screens of width less than 750px.  
+
 
 
