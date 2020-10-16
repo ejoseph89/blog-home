@@ -42,6 +42,7 @@ header .container p {
 }
 
 /* BLOG CONTENTS */
+/* container for an individual blog post */
 .blog-content {
   width: 75vw;
   margin: auto;
@@ -56,11 +57,13 @@ header .container p {
   border-bottom: 0.5px solid rgba(0, 0, 0, 0.2);
 }
 
+/* Image container */
 .img-container {
   width: 100%;
   margin: auto;
 }
 
+/* image dimensions */
 img {
   width: 100%;
   max-width: 1500px;
@@ -70,6 +73,7 @@ img {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); 
 }
 
+/* individual blog's text contents */
 .txt-container {
   max-width: 90%;
   min-width: 20%;
@@ -81,6 +85,7 @@ img {
   background:  rgba(0, 0, 0, 0.1);
 }
 
+/* 'Read more' button */
 .txt-container a {
   display: inline-block;
 
@@ -94,6 +99,7 @@ img {
   border-radius: 0.25rem;
 }
 
+/* Read more button hover effect */
 a:hover {
   color: #fff;
   background: #000;
