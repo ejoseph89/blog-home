@@ -3,7 +3,7 @@
 ## Emil Joseph
 
 
-### GH Pages Link:  
+### GH Pages Link:  https://ejoseph89.github.io/cpnt201-a2/.
 
 
 ### All images downloaded from unsplash
