@@ -1,9 +1,8 @@
-## CPNT 201
-## Assignment 2 - Blog home page
+## Blog home page
 ## Emil Joseph
 
 
-### GH Pages Link: https://ejoseph89.github.io/cpnt201-a2/
+### GH Pages Link: http://emiljoseph.me/blog-home/
 
 
 ### GH repo link: https://github.com/ejoseph89/cpnt201-a2
